@@ -1,0 +1,5 @@
+.btn:hover {
+    box-shadow: 0 0 20px 0 hsl(150, 100%, 66%),
+                0 0 20px 0 hsl(150, 100%, 66%),
+                0 0 10px 0 hsl(150, 100%, 66%) inset;
+  }
